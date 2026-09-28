@@ -1,0 +1,40 @@
+What is really driving e-commerce revenue — products, payment methods, customers, or devices?
+
+I recently completed an E-commerce Orders Analysis project using Power BI, where I analyzed order and revenue data for Summer 2024–2025 to understand sales performance and identify patterns that could support better business decisions.
+
+🔍 Business Questions I explored:
+
+• Which product categories contribute the most to total revenue?
+• How does revenue change over time?
+• Which payment methods generate the highest revenue?
+• Which countries contribute most to sales?
+• Are customers purchasing more through mobile, desktop, or tablet?
+• What is the overall volume of delivered and returned orders?
+
+📈 Key Metrics
+
+Total Revenue: 10.22M
+Male Customers: 25K
+Female Customers: 25K
+Mobile Orders: 31K
+Delivered Orders: 42K
+Returned Orders: 4K
+
+💡 What I analyzed
+
+The dashboard provides a consolidated view of:
+
+🔹 Revenue trends by month and year
+🔹 Revenue by product category
+🔹 Revenue by payment method
+🔹 Revenue by country
+🔹 Revenue by device
+🔹 Order status and customer segments
+
+🛠️ Tools & Skills
+
+Power BI | Data Visualization | Data Analysis | Dashboard Development | Business Intelligence
+
+This project helped me strengthen my ability to move from raw e-commerce data → analysis → visualization → business insights.
+
+I'm currently building my career in Data Analytics and actively looking for opportunities where I can use Power BI, Excel, SQL and analytical problem-solving to work on real business problems.
